@@ -1,5 +1,5 @@
 homepage: "https://www.sinatra.pro"
 documentation: "https://github.com/sinatrapro/sinatra-for-ga4-server"
 versions:
-  - sha: 745f552d47a1cdb78bbdd318ff3d982b87875ac3
+  - sha: fc1e23830a42f82c533311fb00e8256742d9e68c
     changeNotes: Initial release.
